@@ -1,5 +1,5 @@
 # Predicting Patient Mortality in Hospitals
-This project aims to develop classifiers to predict whether or not a patient is likely to expire during their hospital stay based on information that is typically collected during hospital stays. This project was purely done for practicing purposes and should not be used for real world usecases.
+This project aims to develop classifiers to predict whether or not a patient is likely to expire during their hospital stay based on information that is typically collected in hospitals. This project was purely done for practicing purposes and should not be used for real world usecases.
 
 ## Dataset
 The classification dataset consists of 47,181 instances of patients with data for 27 different attributes. Attributes include demographic information such as age and admit location, as well as various medical indicators. Attributes like marital status and ethnicity, which do not significantly contribute to predicting patient mortality, are subseqeuntly excluded from the analysis.
