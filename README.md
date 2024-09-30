@@ -8,9 +8,5 @@ The classification dataset consists of 47,181 instances of patients with data fo
 The first parts of the notebook is focused on data cleaning, transformation, and feature selection. It ensures that only relevant attributes are retained for model training, and that the data is formatted appropriately for the machine learning algorithms.
 After that I implemented several classification algorithms that are able to classify a patient as either likely to "not expired" (class 0) or "expired" (class 1) during their hospital stay based on information collected during the hospital stay. Lastly, the models are used to classify unseen data of a kaggle challenge dataset.
 
-## Classification Performance
-The following table shows the performance metrics achieved by the different models:
-
-![models_performance.png](https://github.com/jannikauer/hospital-dataset-classification/blob/main/models_performance.png)
 
 
